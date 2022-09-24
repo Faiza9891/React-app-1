@@ -27,11 +27,7 @@ export const FeedbackProvider = ({ children }) => {
     edit: false,
   })
 
-  // useEffect(() => {
-  //   fetchFeedback()
-  // }, [])
-
-  // Fetch feedback
+  
  
 
   // Add feedback
